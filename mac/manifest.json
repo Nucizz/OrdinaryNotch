@@ -1,0 +1,884 @@
+{
+  "app": "Ordinary Notch",
+  "version": "0.18.41",
+  "build": 96,
+  "captured": "2026-10-28",
+  "format": "Lossless WebP",
+  "pixelEqualityVerified": true,
+  "privacy": "Personal content replaced by isolated synthetic fixtures before native capture. Camera inactive. No EXIF or XMP metadata. All images reviewed visually and with OCR.",
+  "images": [
+    {
+      "path": "clipboard/clipboard-dark.webp",
+      "title": "clipboard dark",
+      "width": 1200,
+      "height": 840,
+      "bytes": 12210,
+      "sha256": "430eea680fba7a9b5a32eee898bdaf66f76f16d16adfeaaf082d62fde6ad3d7d",
+      "sourcePNGBytes": 50640
+    },
+    {
+      "path": "clipboard/clipboard-light.webp",
+      "title": "clipboard light",
+      "width": 1200,
+      "height": 840,
+      "bytes": 11964,
+      "sha256": "96b982cdb48102a597ce464885e1fc0809e98b5b4d4ba2ee0a86d5cf3b3e182e",
+      "sourcePNGBytes": 49812
+    },
+    {
+      "path": "dock/hover-preview.webp",
+      "title": "hover preview",
+      "width": 956,
+      "height": 378,
+      "bytes": 33326,
+      "sha256": "4a2d9193b996792b0c9ce0b7758d1330002a42bbebfa040795ec07a7571b37dc",
+      "sourcePNGBytes": 105995
+    },
+    {
+      "path": "dock/screen-dock-bottom.webp",
+      "title": "screen dock bottom",
+      "width": 236,
+      "height": 132,
+      "bytes": 14560,
+      "sha256": "6a6d57cbbb1b60255581aeb55a484d05f887040e207dca6ceec79d828a90bc3d",
+      "sourcePNGBytes": 22341
+    },
+    {
+      "path": "dock/screen-dock-left.webp",
+      "title": "screen dock left",
+      "width": 128,
+      "height": 244,
+      "bytes": 15194,
+      "sha256": "457efb7ee85cbe7d3bbefeea8faf40054f857241099368e5717dfdc5c8eb1c5e",
+      "sourcePNGBytes": 24067
+    },
+    {
+      "path": "notch/accessory.webp",
+      "title": "accessory",
+      "width": 1376,
+      "height": 152,
+      "bytes": 11714,
+      "sha256": "cc98a44bf0812027b1ee657197b74e297472495708c2ce529d3faa4ff1b4dc13",
+      "sourcePNGBytes": 27064
+    },
+    {
+      "path": "notch/brightness.webp",
+      "title": "brightness",
+      "width": 1376,
+      "height": 152,
+      "bytes": 7322,
+      "sha256": "e26b5de16eca2315e7f61026e0d7560e14a96248095e7cd11c644b60ea782e30",
+      "sourcePNGBytes": 16029
+    },
+    {
+      "path": "notch/camera.webp",
+      "title": "camera",
+      "width": 1376,
+      "height": 808,
+      "bytes": 9168,
+      "sha256": "be21332575b2e8a32f14c331cb5f3d19d91d019aaaa866bf331012332a419212",
+      "sourcePNGBytes": 40390
+    },
+    {
+      "path": "notch/clock.webp",
+      "title": "clock",
+      "width": 1376,
+      "height": 332,
+      "bytes": 23168,
+      "sha256": "e82dc1dd6b4acc273c1de2025340b2e3ba3243ed5868e7f7537a72f508426c62",
+      "sourcePNGBytes": 80174
+    },
+    {
+      "path": "notch/code.webp",
+      "title": "code",
+      "width": 1376,
+      "height": 332,
+      "bytes": 40746,
+      "sha256": "6440e7880df7a93a42dabb0967816e9e227ea9e58994a1903dbf92f47084715d",
+      "sourcePNGBytes": 121221
+    },
+    {
+      "path": "notch/connection.webp",
+      "title": "connection",
+      "width": 1376,
+      "height": 152,
+      "bytes": 8766,
+      "sha256": "b63ebced51bdbba43632417199af0e1689541421b17df0287089d02c8a5d152d",
+      "sourcePNGBytes": 19020
+    },
+    {
+      "path": "notch/fans.webp",
+      "title": "fans",
+      "width": 1376,
+      "height": 332,
+      "bytes": 29970,
+      "sha256": "9f3021456b0e910b8a4704429fdae683795307ba2f81a132d15019c2743b8878",
+      "sourcePNGBytes": 92344
+    },
+    {
+      "path": "notch/files.webp",
+      "title": "files",
+      "width": 1376,
+      "height": 332,
+      "bytes": 17120,
+      "sha256": "25775950e4560d0ce7d21b2f31f3598d9b7bcf881bf4ca11a30d20c6cbcea2e8",
+      "sourcePNGBytes": 63188
+    },
+    {
+      "path": "island/accessory.webp",
+      "title": "accessory",
+      "width": 1216,
+      "height": 160,
+      "bytes": 13248,
+      "sha256": "eb66195311f78e83354e2ee2aec6ef5d8a4bb3ae9342b9918def301a0ceae8f9",
+      "sourcePNGBytes": 29407
+    },
+    {
+      "path": "island/brightness.webp",
+      "title": "brightness",
+      "width": 1216,
+      "height": 160,
+      "bytes": 8616,
+      "sha256": "3861ae4eeccc8f2b0dd41ae8f1ebae19a806d7d553e68632183d1d5cb9ab1208",
+      "sourcePNGBytes": 18574
+    },
+    {
+      "path": "island/camera.webp",
+      "title": "camera",
+      "width": 1216,
+      "height": 764,
+      "bytes": 9242,
+      "sha256": "8aac29105439420f18b106d71829695df723b319f971041ed27a90ea6ce9159c",
+      "sourcePNGBytes": 36983
+    },
+    {
+      "path": "island/clock.webp",
+      "title": "clock",
+      "width": 1216,
+      "height": 340,
+      "bytes": 23016,
+      "sha256": "533d9a33a7c432174dc024d0d794952cb0a857745369826e8cd04eafea1cc3b5",
+      "sourcePNGBytes": 76672
+    },
+    {
+      "path": "island/code.webp",
+      "title": "code",
+      "width": 1216,
+      "height": 340,
+      "bytes": 41128,
+      "sha256": "fb1db94c56a8474224e44752a2f0468d52246276f69a6487dc980d7d5d4493df",
+      "sourcePNGBytes": 114942
+    },
+    {
+      "path": "island/connection.webp",
+      "title": "connection",
+      "width": 1216,
+      "height": 160,
+      "bytes": 10062,
+      "sha256": "c8eb3c8abf48c21c7ace589afe3119c0380ae649b1f01b68e37529a1dc3aa96b",
+      "sourcePNGBytes": 21669
+    },
+    {
+      "path": "island/fans.webp",
+      "title": "fans",
+      "width": 1216,
+      "height": 340,
+      "bytes": 30064,
+      "sha256": "cb925a5127af822922b4656b3795e32ab1b69fa7efb6fb90fff2b7f8704f7f63",
+      "sourcePNGBytes": 87245
+    },
+    {
+      "path": "island/files.webp",
+      "title": "files",
+      "width": 1216,
+      "height": 340,
+      "bytes": 17572,
+      "sha256": "4cddeabdcfc0d9a48c7e4a5d11c0ba588bfb9f31761c9e6765038e011cba0967",
+      "sourcePNGBytes": 63119
+    },
+    {
+      "path": "island/lyrics-floating.webp",
+      "title": "lyrics floating",
+      "width": 1216,
+      "height": 548,
+      "bytes": 106984,
+      "sha256": "89747c6834decc9b0c8c1e21a06aefe1049a6a22eae1c3bcf62e15279328f003",
+      "sourcePNGBytes": 231099
+    },
+    {
+      "path": "island/lyrics-integrated.webp",
+      "title": "lyrics integrated",
+      "width": 1216,
+      "height": 444,
+      "bytes": 53652,
+      "sha256": "e086d3fd8c90584525d7a5f9f20875ac106892cdfd14ef6c8db1ea1925aea883",
+      "sourcePNGBytes": 144589
+    },
+    {
+      "path": "island/music.webp",
+      "title": "music",
+      "width": 1216,
+      "height": 356,
+      "bytes": 50650,
+      "sha256": "1a95210c1f8dce9587c6c60176acd3f1a4a589f3f1ed9b3e4ad2090b6a946916",
+      "sourcePNGBytes": 136262
+    },
+    {
+      "path": "island/network.webp",
+      "title": "network",
+      "width": 1216,
+      "height": 340,
+      "bytes": 30944,
+      "sha256": "ab63dc7b587fe2067528a62867f440aac0c55c17fb8228cd4aceec69be6b514b",
+      "sourcePNGBytes": 89907
+    },
+    {
+      "path": "island/volume.webp",
+      "title": "volume",
+      "width": 1216,
+      "height": 160,
+      "bytes": 8498,
+      "sha256": "1fd37aff0443f645d3159d30786f750df125f3146f813a251eb98ac34cdf165e",
+      "sourcePNGBytes": 18280
+    },
+    {
+      "path": "island/work.webp",
+      "title": "work",
+      "width": 1216,
+      "height": 340,
+      "bytes": 40974,
+      "sha256": "4a06d37b95c954602d744e0432f4d09986f2208d1606d92c1ca332c0d943ad80",
+      "sourcePNGBytes": 114492
+    },
+    {
+      "path": "lock-screen/cover.webp",
+      "title": "cover",
+      "width": 1040,
+      "height": 1120,
+      "bytes": 22812,
+      "sha256": "f4b4647b3f0ecf75a20aade7f29da328121e2d66ddfa4b810c030c5fb859c79a",
+      "sourcePNGBytes": 210054
+    },
+    {
+      "path": "lock-screen/lyrics-compact.webp",
+      "title": "lyrics compact",
+      "width": 1040,
+      "height": 1080,
+      "bytes": 30028,
+      "sha256": "951112208e02528b9299a2df081987d363c1ae81a123b350a1b9974672da5080",
+      "sourcePNGBytes": 100844
+    },
+    {
+      "path": "lock-screen/lyrics.webp",
+      "title": "lyrics",
+      "width": 2000,
+      "height": 1080,
+      "bytes": 40796,
+      "sha256": "eb50f6337b60cc0c685d1ece1e399eebfe8c3f3da3ba7ce6f5e3934a03d0e63a",
+      "sourcePNGBytes": 284831
+    },
+    {
+      "path": "notch/lyrics-floating.webp",
+      "title": "lyrics floating",
+      "width": 1376,
+      "height": 524,
+      "bytes": 106792,
+      "sha256": "57268befbd7add6c74f6d07852c263ca385d92cd1c306900c8766ce4fc56850c",
+      "sourcePNGBytes": 230113
+    },
+    {
+      "path": "notch/lyrics-integrated.webp",
+      "title": "lyrics integrated",
+      "width": 1376,
+      "height": 420,
+      "bytes": 52290,
+      "sha256": "0e1d3cb102493b560a9ec2887fc49d68d376a94ad5c63c5c0ea37cf54d7c00c5",
+      "sourcePNGBytes": 141013
+    },
+    {
+      "path": "notch/music.webp",
+      "title": "music",
+      "width": 1376,
+      "height": 332,
+      "bytes": 49320,
+      "sha256": "ceda3b0b9a6cd469a877ad99df0dc931ad1318fb5fb410d49cd784e97585e08f",
+      "sourcePNGBytes": 132512
+    },
+    {
+      "path": "notch/network.webp",
+      "title": "network",
+      "width": 1376,
+      "height": 332,
+      "bytes": 30924,
+      "sha256": "7012162bbdb98efb40c2258e1124a3a2d41c040a1ed97c1cfb9268fed8a3eabc",
+      "sourcePNGBytes": 91363
+    },
+    {
+      "path": "notch/volume.webp",
+      "title": "volume",
+      "width": 1376,
+      "height": 152,
+      "bytes": 7200,
+      "sha256": "eb94f5e19d1cfd64f9012dc8fb05c4aa124a5fc6f82ff98ed2071e40e96bf5a7",
+      "sourcePNGBytes": 15802
+    },
+    {
+      "path": "notch/work.webp",
+      "title": "work",
+      "width": 1376,
+      "height": 332,
+      "bytes": 40652,
+      "sha256": "d631e0361f3effd08aca9b4ab45cdf570effd9f371bf0cf086ad011fd57e008b",
+      "sourcePNGBytes": 120856
+    },
+    {
+      "path": "settings/about-dark.webp",
+      "title": "About dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 52736,
+      "sha256": "e90815c3b762cd81e8ec766588c6295bc2b941135437ae7efd80ce5e48896b80",
+      "sourcePNGBytes": 186026
+    },
+    {
+      "path": "settings/about-light.webp",
+      "title": "About light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 52292,
+      "sha256": "52e08fc8a3fb128cac51a78539da3e23a8446d21eb32fb796a8e2510376c0c4e",
+      "sourcePNGBytes": 185945
+    },
+    {
+      "path": "settings/camera-dark.webp",
+      "title": "Camera dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 44690,
+      "sha256": "72b8f52c60d30b0e018c192f07364b295c4e9f76e919ae342af8a77ad7524250",
+      "sourcePNGBytes": 165765
+    },
+    {
+      "path": "settings/camera-light.webp",
+      "title": "Camera light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 45120,
+      "sha256": "28722bbb7a072109bf373bf5968d318d1224ac83161eb95b2cb2c928a457374e",
+      "sourcePNGBytes": 166137
+    },
+    {
+      "path": "settings/clock-dark.webp",
+      "title": "Clock dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 79100,
+      "sha256": "34b840d4765cc45c0926e7f6ffbac4a014b8b62f3a32ade3b97db5447cba26cb",
+      "sourcePNGBytes": 257287
+    },
+    {
+      "path": "settings/clock-light.webp",
+      "title": "Clock light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 79126,
+      "sha256": "3ed34ad50ee4500759b45eef3ebba9a609519f43aeb3ff5409d8f75ef8637ae5",
+      "sourcePNGBytes": 257331
+    },
+    {
+      "path": "settings/code-task-claude-integration-dark.webp",
+      "title": "Code & Task claude Integration dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 61724,
+      "sha256": "15467983121184e6137a9e279eb0e32cebea06f16a6a049d1fdb7cef87a99502",
+      "sourcePNGBytes": 229684
+    },
+    {
+      "path": "settings/code-task-dark.webp",
+      "title": "Code & Task dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 92270,
+      "sha256": "faea10fdc741815e6660bba46c8b2fce50e2b1eeee1c486e5469ec919c541ccb",
+      "sourcePNGBytes": 269416
+    },
+    {
+      "path": "settings/code-task-gpt-work-dark.webp",
+      "title": "Code & Task gpt Work dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 43938,
+      "sha256": "4f558a5cc06a0f3bcabc46dc2f0b9a89329c3fb10c6259d7a6a3461555c3c4ba",
+      "sourcePNGBytes": 163228
+    },
+    {
+      "path": "settings/code-task-keep-awake-dark.webp",
+      "title": "Code & Task keep Awake dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 107992,
+      "sha256": "afce668320c1b18cbbeb8b825fc4da8eb93171bf3012df823ad9e5869a45d79c",
+      "sourcePNGBytes": 328522
+    },
+    {
+      "path": "settings/code-task-light.webp",
+      "title": "Code & Task light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 92674,
+      "sha256": "b59820e0d75b9222c2b024b5dd52713ef352e10f47cbda8884f8bc26184d0f47",
+      "sourcePNGBytes": 269976
+    },
+    {
+      "path": "settings/developer-dark.webp",
+      "title": "Developer dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 47244,
+      "sha256": "9a38477c6921ea5b4cf45e585e4bdd7c0c284f453d53a27442c2339264320cdb",
+      "sourcePNGBytes": 180800
+    },
+    {
+      "path": "settings/developer-developer-agents-dark.webp",
+      "title": "Developer developer Agents dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 42664,
+      "sha256": "adde01d3f304653a1a138c0342c325e6d9fc50a367e48c7f4cb586cb165a3229",
+      "sourcePNGBytes": 167602
+    },
+    {
+      "path": "settings/developer-developer-alerts-dark.webp",
+      "title": "Developer developer Alerts dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 52896,
+      "sha256": "3a13c235d935e0f257e46fd0e9786ce5e5ca8c630d20446e2b0d6de928fa9f03",
+      "sourcePNGBytes": 218195
+    },
+    {
+      "path": "settings/developer-developer-display-dark.webp",
+      "title": "Developer developer Display dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 45052,
+      "sha256": "be4797ea9bbf274aa718d96732b311a26e6c513687936c2e229429003ed6c464",
+      "sourcePNGBytes": 169278
+    },
+    {
+      "path": "settings/developer-light.webp",
+      "title": "Developer light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 46966,
+      "sha256": "1f7ed0dc1077afdf779f216641856e7490b619bffbd9ec703fdc999314f7d4bc",
+      "sourcePNGBytes": 180125
+    },
+    {
+      "path": "settings/displays-dark.webp",
+      "title": "Displays dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 93488,
+      "sha256": "9a32f362843e71f5b2315e72139fbed18ec2da22240ff2fe9e7412de1eb2bc74",
+      "sourcePNGBytes": 318115
+    },
+    {
+      "path": "settings/displays-light.webp",
+      "title": "Displays light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 93176,
+      "sha256": "3c86a20e2487e5bef550b2ff50271392ab5bf92a84f80262a2dcb4acde8adb16",
+      "sourcePNGBytes": 318970
+    },
+    {
+      "path": "settings/dock-dark.webp",
+      "title": "Dock dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 68834,
+      "sha256": "db110b8d722bac37672294804a95d165782b0c6eaeccfe93f81313708b04b80e",
+      "sourcePNGBytes": 251998
+    },
+    {
+      "path": "settings/dock-light.webp",
+      "title": "Dock light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 68684,
+      "sha256": "63ed381297352a79cebff633cf979447186bd9985b893d37a54e2afec8e90af6",
+      "sourcePNGBytes": 251744
+    },
+    {
+      "path": "settings/dynamic-content-dark.webp",
+      "title": "Dynamic Content dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 119200,
+      "sha256": "780683978815b4f17c07ae8b688df77e2aae831162a07f70a005f19dff558fd6",
+      "sourcePNGBytes": 322096
+    },
+    {
+      "path": "settings/dynamic-content-light.webp",
+      "title": "Dynamic Content light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 119424,
+      "sha256": "6d15b8d3bc74f90887e68c1d68b3643abef6cef1312488eb43dcad095699662c",
+      "sourcePNGBytes": 324012
+    },
+    {
+      "path": "settings/face-unlock-dark.webp",
+      "title": "Face Unlock dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 66990,
+      "sha256": "748a9679e1d93ef80a0e79959689e8fd75915b7e662cf3d485d282d8da7d37f8",
+      "sourcePNGBytes": 229541
+    },
+    {
+      "path": "settings/face-unlock-light.webp",
+      "title": "Face Unlock light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 66048,
+      "sha256": "738b4d2ffddf23d452f973ec7d9f24bd7c430614b02bf5b5cc06cf391bf09b0d",
+      "sourcePNGBytes": 228509
+    },
+    {
+      "path": "settings/fans-performance-dark.webp",
+      "title": "Fans & Performance dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 76596,
+      "sha256": "d6831aa5c4ef4ebbe829dc46af0f26e6a4428b8b771e28349a449aa97adf045b",
+      "sourcePNGBytes": 250686
+    },
+    {
+      "path": "settings/fans-performance-light.webp",
+      "title": "Fans & Performance light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 76566,
+      "sha256": "0d784545bad1bef5f1d169d64bdb98e171b4ee81e4efe16ba40944728cf3d710",
+      "sourcePNGBytes": 250881
+    },
+    {
+      "path": "settings/file-clipboard-clipboard-storage-dark.webp",
+      "title": "File & Clipboard clipboard Storage dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 53746,
+      "sha256": "1b32d101a886952e326f3e6b4e4fb47c02ccc2eb366175208884dddb506ff71a",
+      "sourcePNGBytes": 199001
+    },
+    {
+      "path": "settings/file-clipboard-dark.webp",
+      "title": "File & Clipboard dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 65220,
+      "sha256": "96bb9d12293922589d765a97a1aaec6632c5eec71e652213c850ae7bd2d86275",
+      "sourcePNGBytes": 237864
+    },
+    {
+      "path": "settings/file-clipboard-light.webp",
+      "title": "File & Clipboard light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 65416,
+      "sha256": "2b4992a6f27286a7a47f3e26459972b0e3400030ce4e815bcd4cec261c820f38",
+      "sourcePNGBytes": 236675
+    },
+    {
+      "path": "settings/general-app-management-dark.webp",
+      "title": "General app Management dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 53558,
+      "sha256": "ebbd544c4c8dded6a744079031be7fb69b8b1ac63d18801988a171c5ca40650f",
+      "sourcePNGBytes": 200376
+    },
+    {
+      "path": "settings/general-dark.webp",
+      "title": "General dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 49724,
+      "sha256": "9f565a87744bf07061f5072a47b6d127369749caf2bef13e3c18a18181ec04a3",
+      "sourcePNGBytes": 187168
+    },
+    {
+      "path": "settings/general-light.webp",
+      "title": "General light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 49706,
+      "sha256": "7d7a54726ab2d01771fca22c18c434031d7ce0b947191943cdec94b90f858b31",
+      "sourcePNGBytes": 188194
+    },
+    {
+      "path": "settings/live-activities-dark.webp",
+      "title": "Live Activities dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 62308,
+      "sha256": "6f4e86dbce97da34bd044ec33e205d36e078b61c0afb60d9d9fb2112d60128d9",
+      "sourcePNGBytes": 208743
+    },
+    {
+      "path": "settings/live-activities-light.webp",
+      "title": "Live Activities light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 62222,
+      "sha256": "7341d39eea197561891b068e3c232274cee331b94c10bb846eb2cb36331c8dfb",
+      "sourcePNGBytes": 209258
+    },
+    {
+      "path": "settings/lock-screen-dark.webp",
+      "title": "Lock Screen dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 58488,
+      "sha256": "48e3e7e2b9745facc6d68a87f62a724537b32eb2d3f4bdc2cc0e81435590ce53",
+      "sourcePNGBytes": 202448
+    },
+    {
+      "path": "settings/lock-screen-light.webp",
+      "title": "Lock Screen light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 58714,
+      "sha256": "b3265f86f62578f26c71e503b743d8131d854a03d0fdfbf276cc085a1ed542f5",
+      "sourcePNGBytes": 202495
+    },
+    {
+      "path": "settings/media-dark.webp",
+      "title": "Media dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 110584,
+      "sha256": "34e1abeee92073119c8b76b3933f427baccd70ac148e02f30f54708dfbc6e93d",
+      "sourcePNGBytes": 304260
+    },
+    {
+      "path": "settings/media-light.webp",
+      "title": "Media light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 110990,
+      "sha256": "54fb1d8dc801e3b9c6d01cbac52d3a1b677004827e06db0ecb7b6dee26e75249",
+      "sourcePNGBytes": 305422
+    },
+    {
+      "path": "settings/media-lyrics-source-dark.webp",
+      "title": "Media lyrics Source dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 67442,
+      "sha256": "45a9f4a3ae3dad953d65b7b18b6bef7eeb23fce0b529bff234bf34ba3d811c9b",
+      "sourcePNGBytes": 237080
+    },
+    {
+      "path": "settings/network-dark.webp",
+      "title": "Network dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 78364,
+      "sha256": "2b2c7251148940fe3ceecc34df027e4f1283a2ec3a8f58cac7a895015ca7a1c2",
+      "sourcePNGBytes": 249474
+    },
+    {
+      "path": "settings/network-light.webp",
+      "title": "Network light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 79044,
+      "sha256": "1b039792bc58a29bcebe7532976bb2fd588ab9a4d1308e54cea8fb7c39af9d93",
+      "sourcePNGBytes": 249248
+    },
+    {
+      "path": "settings/notifications-dark.webp",
+      "title": "Notifications dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 59950,
+      "sha256": "d11e00628c0669de124840e930083c9e91bce8ecbdd1d56b9e922bc2eef9061f",
+      "sourcePNGBytes": 222857
+    },
+    {
+      "path": "settings/notifications-light.webp",
+      "title": "Notifications light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 59530,
+      "sha256": "e6bf1f96c38677902914fded18e9791a4553dc376ad3170aec42ef32aa364174",
+      "sourcePNGBytes": 223261
+    },
+    {
+      "path": "settings/privacy-security-app-permissions-dark.webp",
+      "title": "Privacy & Security app Permissions dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 61946,
+      "sha256": "8f490dcc8c0f84a8e4bc1212c8ae0775dd2cb910921a5623940f89839acf5a49",
+      "sourcePNGBytes": 231185
+    },
+    {
+      "path": "settings/privacy-security-automation-permissions-dark.webp",
+      "title": "Privacy & Security automation Permissions dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 47484,
+      "sha256": "9346d55dba5f16417fe237202aa46e4756c6758b238f170c73e938dfd3f62041",
+      "sourcePNGBytes": 183325
+    },
+    {
+      "path": "settings/privacy-security-credentials-dark.webp",
+      "title": "Privacy & Security credentials dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 55984,
+      "sha256": "d96a08d051dd9e5adbe588575c4aedf2dcb60b7acfa550445122955e7f7ee4d2",
+      "sourcePNGBytes": 200812
+    },
+    {
+      "path": "settings/privacy-security-dark.webp",
+      "title": "Privacy & Security dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 64436,
+      "sha256": "56e5f625a4228a9cb9a4a65eef1f49fef9afcfdbb5b65d04eebf96fea39409c7",
+      "sourcePNGBytes": 232007
+    },
+    {
+      "path": "settings/privacy-security-light.webp",
+      "title": "Privacy & Security light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 63934,
+      "sha256": "2a33010e4efffff8b7726337c550d5a9643bbddad10b4ad64fe85181b923eb39",
+      "sourcePNGBytes": 231761
+    },
+    {
+      "path": "settings/privacy-security-notice-permissions-dark.webp",
+      "title": "Privacy & Security notice Permissions dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 51636,
+      "sha256": "a77899c26571eadd182d0ca40c07cea6097437768f2e0740c6006d4fa61cfaa3",
+      "sourcePNGBytes": 189317
+    },
+    {
+      "path": "settings/reminder-dark.webp",
+      "title": "Reminder dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 44316,
+      "sha256": "406933928089f865683369b0dab1ecda81fb2efdfa7f033fb11ecca0d8985c6b",
+      "sourcePNGBytes": 166113
+    },
+    {
+      "path": "settings/reminder-eye-breaks-dark.webp",
+      "title": "Reminder eye Breaks dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 51222,
+      "sha256": "33e1368890b5998c28f90956a1f4e0abeef245efa2bc4f83347057eaea337839",
+      "sourcePNGBytes": 196925
+    },
+    {
+      "path": "settings/reminder-light.webp",
+      "title": "Reminder light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 44348,
+      "sha256": "b602ff2b56a6817dba22c26a59a666ad0076ec8f56b2ce291aacf11450651af3",
+      "sourcePNGBytes": 166577
+    },
+    {
+      "path": "settings/reminder-water-reminders-dark.webp",
+      "title": "Reminder water Reminders dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 49758,
+      "sha256": "2de0578cab301799b038aab46ee44db5f059f898e28fd0f2bccb274a347a98c5",
+      "sourcePNGBytes": 184782
+    },
+    {
+      "path": "settings/storage-dark.webp",
+      "title": "Storage dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 41858,
+      "sha256": "c616ca0e8139d897f3b1e927c1c17618d08dab21762ef5c47a8ae14d36e4db56",
+      "sourcePNGBytes": 163573
+    },
+    {
+      "path": "settings/storage-light.webp",
+      "title": "Storage light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 41682,
+      "sha256": "bff1336d4f99697c5a8f2a4c9f0faa4511d030fd68b9f474933a17f7a2f3f3da",
+      "sourcePNGBytes": 163400
+    },
+    {
+      "path": "settings/upgrade-to-pro-dark.webp",
+      "title": "Upgrade to Pro dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 62640,
+      "sha256": "1657a50f6278c6df2b938107ac4bf62712346e1bf3a5994de6ae679d1e6202a8",
+      "sourcePNGBytes": 234962
+    },
+    {
+      "path": "settings/upgrade-to-pro-light.webp",
+      "title": "Upgrade to Pro light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 61906,
+      "sha256": "ea7203d2cceca93d08b58eb9e3d92f46b609c8e658d35844951a9d79ec99fef3",
+      "sourcePNGBytes": 234901
+    },
+    {
+      "path": "settings/weather-dark.webp",
+      "title": "Weather dark",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 89544,
+      "sha256": "df613d9763fdd7ebfbe939679573a89ed3807ccd0b3b3e05f242c0f80ef978a3",
+      "sourcePNGBytes": 261182
+    },
+    {
+      "path": "settings/weather-light.webp",
+      "title": "Weather light",
+      "width": 1560,
+      "height": 1284,
+      "bytes": 89258,
+      "sha256": "f8333827ad654198b745b233650c65e93893a6097c81c8bdafae508c7039d52b",
+      "sourcePNGBytes": 261460
+    },
+    {
+      "path": "weather/seven-days.webp",
+      "title": "seven days",
+      "width": 1120,
+      "height": 268,
+      "bytes": 172524,
+      "sha256": "cca08ee21278763adc8795ff12585942a1b67f0cc4d7852cd5919275bf0da61f",
+      "sourcePNGBytes": 337904
+    },
+    {
+      "path": "weather/today.webp",
+      "title": "today",
+      "width": 1120,
+      "height": 268,
+      "bytes": 170068,
+      "sha256": "88bf7177b03200a0be53d586d922385786a7cb400ff8b376c6107a72ef27a207",
+      "sourcePNGBytes": 334414
+    }
+  ]
+}
