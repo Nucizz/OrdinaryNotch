@@ -12,6 +12,7 @@ Sample content only. Click an image link for its full resolution.
 | clock | [View](clock.webp) |
 | code | [View](code.webp) |
 | connection | [View](connection.webp) |
+| downloads | [View](downloads.webp) |
 | fans | [View](fans.webp) |
 | files | [View](files.webp) |
 | lyrics floating | [View](lyrics-floating.webp) |
@@ -19,4 +20,5 @@ Sample content only. Click an image link for its full resolution.
 | music | [View](music.webp) |
 | network | [View](network.webp) |
 | volume | [View](volume.webp) |
+| weather | [View](weather.webp) |
 | work | [View](work.webp) |
