@@ -1,0 +1,266 @@
+{
+    "app":  "Ordinary Notch for Windows",
+    "version":  "0.1.0 (unreleased)",
+    "build":  "9B33F9177D7496CC6EEA66BBEBDB10FFDDEA71362678544841B524BA2E6F3B97",
+    "captured":  "2026-10-31",
+    "format":  "png",
+    "privacy":  "Sample content only. Panels are rendered offscreen with demonstration data. Settings and Clipboard are single-window captures from an isolated run. No real media, clipboard history, files, sensors, camera image or desktop is shown.",
+    "images":  [
+                   {
+                       "path":  "notch/camera.png",
+                       "title":  "camera",
+                       "width":  1376,
+                       "height":  808,
+                       "bytes":  22073,
+                       "sha256":  "cc799386107932f7d1c5ed9810d6e9b2a679725f60dad0b5291f9763bfbfa3ac"
+                   },
+                   {
+                       "path":  "notch/clock.png",
+                       "title":  "clock",
+                       "width":  1376,
+                       "height":  332,
+                       "bytes":  24070,
+                       "sha256":  "81e7cb76b65d4f73b11aebcadc3a6b070bde8cc989bfe948a77e18e45470be08"
+                   },
+                   {
+                       "path":  "notch/files.png",
+                       "title":  "files",
+                       "width":  1376,
+                       "height":  332,
+                       "bytes":  17781,
+                       "sha256":  "e2206b8b6d19fe83f736a48e7ae56c0bbc50479b74186b29a0ed7e24c04cfc2f"
+                   },
+                   {
+                       "path":  "notch/lyrics-floating.png",
+                       "title":  "lyrics floating",
+                       "width":  1376,
+                       "height":  524,
+                       "bytes":  112289,
+                       "sha256":  "7587ee0ce016ce3cf64453cd2883200a790c890e465c3540eef4c0f93bbe7e1c"
+                   },
+                   {
+                       "path":  "notch/lyrics-integrated.png",
+                       "title":  "lyrics integrated",
+                       "width":  1376,
+                       "height":  420,
+                       "bytes":  63304,
+                       "sha256":  "e05094c98b8627e7006e1574a3e3e92af6b26b256dd35e61e1e91d7b236b0cb2"
+                   },
+                   {
+                       "path":  "notch/music.png",
+                       "title":  "music",
+                       "width":  1376,
+                       "height":  332,
+                       "bytes":  57327,
+                       "sha256":  "eccfeb2596a2551a3f7c28246b013b698ccac1d06297a488b315e217670bb056"
+                   },
+                   {
+                       "path":  "notch/performance.png",
+                       "title":  "performance",
+                       "width":  1376,
+                       "height":  332,
+                       "bytes":  34972,
+                       "sha256":  "9b7778008b32ce77e4d2d4531f0db6ad92184a464ea9e71cf307bdf462b8b4c8"
+                   },
+                   {
+                       "path":  "island/camera.png",
+                       "title":  "camera",
+                       "width":  1216,
+                       "height":  764,
+                       "bytes":  21237,
+                       "sha256":  "15dc8229c7f62fb2a125b1ee5fc372febf03931997868b7927c494b6bc6ecde9"
+                   },
+                   {
+                       "path":  "island/clock.png",
+                       "title":  "clock",
+                       "width":  1216,
+                       "height":  340,
+                       "bytes":  23775,
+                       "sha256":  "d7f0bb972bb5e274b709aa9ce0260d4996ee261cebb27d045972b8c198d4a3f6"
+                   },
+                   {
+                       "path":  "island/files.png",
+                       "title":  "files",
+                       "width":  1216,
+                       "height":  340,
+                       "bytes":  17608,
+                       "sha256":  "16487b37b3bf6ace2a0a7b424b22ac1fccf68962611d577713c1e9e62951e504"
+                   },
+                   {
+                       "path":  "island/lyrics-floating.png",
+                       "title":  "lyrics floating",
+                       "width":  1216,
+                       "height":  548,
+                       "bytes":  112973,
+                       "sha256":  "bbf3e9ff33a5b937dc239bca77142c9d59744dc00b5e7747ffbf3438ae4f542e"
+                   },
+                   {
+                       "path":  "island/lyrics-integrated.png",
+                       "title":  "lyrics integrated",
+                       "width":  1216,
+                       "height":  444,
+                       "bytes":  65494,
+                       "sha256":  "c10a40211659e088e790ad85e59a4c3e402bcc5c2dbbdf797291a1fb1f90b6c0"
+                   },
+                   {
+                       "path":  "island/music.png",
+                       "title":  "music",
+                       "width":  1216,
+                       "height":  356,
+                       "bytes":  60610,
+                       "sha256":  "15c92281d2ba8befd2f0d9f94a641c51eb1b47e9db87d751839b69cb44b93afb"
+                   },
+                   {
+                       "path":  "island/performance.png",
+                       "title":  "performance",
+                       "width":  1216,
+                       "height":  340,
+                       "bytes":  36905,
+                       "sha256":  "d19daf58c71fae05ce2467eac82510beac4ead9931707cfc11cd0fe5d0c17c15"
+                   },
+                   {
+                       "path":  "clipboard/clipboard-dark.png",
+                       "title":  "clipboard dark",
+                       "width":  563,
+                       "height":  500,
+                       "bytes":  10081,
+                       "sha256":  "d6eebf080c0e00ab656973e4687be1e96cb84f75b6370c13f4b7fbe96b548199"
+                   },
+                   {
+                       "path":  "clipboard/clipboard-light.png",
+                       "title":  "clipboard light",
+                       "width":  563,
+                       "height":  500,
+                       "bytes":  10098,
+                       "sha256":  "a2c1e7d56044625dd8e7396e85f3507a27b1110a65c10d3c817b350d16cee7c7"
+                   },
+                   {
+                       "path":  "settings/camera-dark.png",
+                       "title":  "camera dark",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  43178,
+                       "sha256":  "ab5ec7d3cec18e813a619f054217dfeb1c4e9bacdb82ed65ea7dd0f1efd0ffe7"
+                   },
+                   {
+                       "path":  "settings/camera-light.png",
+                       "title":  "camera light",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  43530,
+                       "sha256":  "783ab531ddd41a13a9d10c261866512cf2b91df3e459a5eca604288a683d0246"
+                   },
+                   {
+                       "path":  "settings/clock-dark.png",
+                       "title":  "clock dark",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  51294,
+                       "sha256":  "81f9124862414540fdffa342a42eefdcd69ec96315adca05476291e74b3350c2"
+                   },
+                   {
+                       "path":  "settings/clock-light.png",
+                       "title":  "clock light",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  51660,
+                       "sha256":  "e2d4cc51e89614d60d20daee6b3f7fc02e865c15f0ed970a3ab5c1bcb84f4c15"
+                   },
+                   {
+                       "path":  "settings/displays-dark.png",
+                       "title":  "displays dark",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  35075,
+                       "sha256":  "cf571352ed4697db9613d8f8e00f848a08d9f96166a9066c3313053ff14d3ff7"
+                   },
+                   {
+                       "path":  "settings/displays-light.png",
+                       "title":  "displays light",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  35023,
+                       "sha256":  "3310149eb4637f1e707f16043d1df7ee2f85487ebfd647ec51c4a9150de566a0"
+                   },
+                   {
+                       "path":  "settings/dynamic-content-dark.png",
+                       "title":  "dynamic content dark",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  39940,
+                       "sha256":  "bfc7a67a1898d02c388a5310bc9d4fbbcb2dea75c4a21c14b1b3790ac3f8cabb"
+                   },
+                   {
+                       "path":  "settings/dynamic-content-light.png",
+                       "title":  "dynamic content light",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  39810,
+                       "sha256":  "5c42ceb57128664f2abaca92bfceac561375867c2601df5e09692348de5c0799"
+                   },
+                   {
+                       "path":  "settings/file-clipboard-dark.png",
+                       "title":  "file clipboard dark",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  46111,
+                       "sha256":  "df8bbc85cfbe91335738f9423550e3bb541fe1f8d3072a9daae2f857fe289452"
+                   },
+                   {
+                       "path":  "settings/file-clipboard-light.png",
+                       "title":  "file clipboard light",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  46409,
+                       "sha256":  "4c06744c9033daa3457ed384017d01e8ce0f442a212e0370c44367b4191a948a"
+                   },
+                   {
+                       "path":  "settings/general-dark.png",
+                       "title":  "general dark",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  37156,
+                       "sha256":  "83560de8d0402a88e1b05cc0a5a783503366f5f5153ff773e3f92c2c936b1e7c"
+                   },
+                   {
+                       "path":  "settings/general-light.png",
+                       "title":  "general light",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  37099,
+                       "sha256":  "7e993e95ca20cad9ea91f7134f6388404d3ec1999dd75a4991abe5e8e792e31a"
+                   },
+                   {
+                       "path":  "settings/media-dark.png",
+                       "title":  "media dark",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  64825,
+                       "sha256":  "d8a64736970275761294c2a7244b78322df0fbb49ecfc0c978cae2b83f20a5fe"
+                   },
+                   {
+                       "path":  "settings/media-light.png",
+                       "title":  "media light",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  65296,
+                       "sha256":  "f815d56710b1cd6792a187b5ce6a0620d089717b4c159bacab95b97c2bf8655d"
+                   },
+                   {
+                       "path":  "settings/performance-dark.png",
+                       "title":  "performance dark",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  57649,
+                       "sha256":  "8b26f7c4be46b5a7108da39cd343d1d2ac76d7ff10265e2e43c70578613e6e1e"
+                   },
+                   {
+                       "path":  "settings/performance-light.png",
+                       "title":  "performance light",
+                       "width":  977,
+                       "height":  802,
+                       "bytes":  58179,
+                       "sha256":  "5347b524bf064185e70c3a4f8385f2b43bff24a2205b76b936207953e2f5770c"
+                   }
+               ]
+}
