@@ -123,16 +123,16 @@
                        "title":  "clipboard dark",
                        "width":  563,
                        "height":  500,
-                       "bytes":  10080,
-                       "sha256":  "a5f9951effae0a271e95f0484dcb15fe7352b9ac96d42902e5f91207caf209eb"
+                       "bytes":  10029,
+                       "sha256":  "618753fe8c9329b35ae86cb74168c4e4e1fff3d032db95650111984e2290bda3"
                    },
                    {
                        "path":  "clipboard/clipboard-light.png",
                        "title":  "clipboard light",
                        "width":  563,
                        "height":  500,
-                       "bytes":  6038,
-                       "sha256":  "6168ad5beb2a2b1edd825ff4da8df6e985968468bc475edec2dba478e2fcd1bc"
+                       "bytes":  10045,
+                       "sha256":  "7f3ea3992b017b91e1dc7f0ebb26bef712aaaf0f776688dfb8fdefe932fc3952"
                    },
                    {
                        "path":  "settings/camera-dark.png",
@@ -164,7 +164,7 @@
                        "width":  977,
                        "height":  802,
                        "bytes":  51660,
-                       "sha256":  "11cad9deca188d1c8cf58b9d1b176a5ca14a30a75449b46f03ebda6a1e2b0f10"
+                       "sha256":  "e2d4cc51e89614d60d20daee6b3f7fc02e865c15f0ed970a3ab5c1bcb84f4c15"
                    },
                    {
                        "path":  "settings/displays-dark.png",
@@ -203,16 +203,16 @@
                        "title":  "file clipboard dark",
                        "width":  977,
                        "height":  802,
-                       "bytes":  46109,
-                       "sha256":  "312cdd0fbec5c2e2f1c2140c8ae12218ae100f1eea27f07007d76cf027eec5f1"
+                       "bytes":  46111,
+                       "sha256":  "df8bbc85cfbe91335738f9423550e3bb541fe1f8d3072a9daae2f857fe289452"
                    },
                    {
                        "path":  "settings/file-clipboard-light.png",
                        "title":  "file clipboard light",
                        "width":  977,
                        "height":  802,
-                       "bytes":  46408,
-                       "sha256":  "db6e6352c6f010b3a11ffb126b1ddca15e015ab819640444043b8bcf241448e8"
+                       "bytes":  46409,
+                       "sha256":  "4c06744c9033daa3457ed384017d01e8ce0f442a212e0370c44367b4191a948a"
                    },
                    {
                        "path":  "settings/general-dark.png",
@@ -235,16 +235,16 @@
                        "title":  "media dark",
                        "width":  977,
                        "height":  802,
-                       "bytes":  64825,
-                       "sha256":  "d8a64736970275761294c2a7244b78322df0fbb49ecfc0c978cae2b83f20a5fe"
+                       "bytes":  64823,
+                       "sha256":  "da852ec373db5db8e0fe4a9fe8b9e14e1ff63abdf927a314171e96d220498db7"
                    },
                    {
                        "path":  "settings/media-light.png",
                        "title":  "media light",
                        "width":  977,
                        "height":  802,
-                       "bytes":  65298,
-                       "sha256":  "e9c9d4f9eb16d2070a1eb4d2808d4598f1aefec0adc9ff79e7b3135c5aead3a2"
+                       "bytes":  65296,
+                       "sha256":  "f815d56710b1cd6792a187b5ce6a0620d089717b4c159bacab95b97c2bf8655d"
                    },
                    {
                        "path":  "settings/performance-dark.png",
